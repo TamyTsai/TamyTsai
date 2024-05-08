@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi My name is Tamy.
+
+I'm currently learning
+
+- HTML
+- CSS, SCSS, RWD, Bootstrap, Bluma, Tailwind
+- JavaScrpt, ES6, JQuery, Vue.js, Vuex, Stimulus.js
+- Ruby, Sinatra, Rails
+- Python
+- Oracle SQL
 
 <!--
 **TamyTsai/TamyTsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
