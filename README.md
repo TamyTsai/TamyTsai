@@ -1,11 +1,22 @@
 ### Hi My name is Tamy.
 
-I'm currently learning
-
+## 📝 I'm currently learning ...
 - HTML
-- CSS, SCSS, RWD, Bootstrap, Bluma, Tailwind
-- JavaScrpt, ES6, JQuery, Vue.js, Vuex, Stimulus.js
-- Ruby, Sinatra, Rails
+- CSS
+  - SCSS
+  - RWD
+  - Bootstrap
+  - Bluma
+  - Tailwind
+- JavaScript
+  - ES6
+  - JQuery
+  - Vue.js
+  - Vuex
+  - Stimulus.js
+- Ruby
+  - Sinatra
+  - Rails
 - Python
 - Oracle SQL
 
