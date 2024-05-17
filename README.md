@@ -11,6 +11,7 @@
 - JavaScript
   - ES6
   - JQuery
+  - Chart.js
   - Vue.js
   - Vuex
   - Stimulus.js
