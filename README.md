@@ -4,17 +4,20 @@
 - HTML
 - CSS
   - SCSS
+  - Flexbox
   - RWD
   - Bootstrap
   - Bluma
   - Tailwind
 - JavaScript
   - ES6
-  - JQuery
+  - jQuery
   - Chart.js
   - Vue.js
   - Vuex
   - Stimulus.js
+  - UJS
+  - AJAX
 - Ruby
   - Sinatra
   - Rails
