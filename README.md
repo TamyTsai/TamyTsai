@@ -22,6 +22,7 @@
   - Sinatra
   - Rails
 - Python
+  - Pygame
 - Oracle SQL
 
 <!--
