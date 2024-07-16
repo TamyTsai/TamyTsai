@@ -3,21 +3,21 @@
 ## 📝 I'm currently learning ...
 - HTML
 - CSS
-  - SCSS
-  - Flexbox
-  - RWD
+  <!-- - SCSS -->
+  <!-- - Flexbox -->
+  <!-- - RWD -->
   - Bootstrap
   - Bluma
   - Tailwind
 - JavaScript
-  - ES6
+  <!-- - ES6 -->
   - jQuery
   - Chart.js
   - Vue.js
   - Vuex
   - Stimulus.js
-  - UJS
-  - AJAX
+  <!-- - UJS -->
+  <!-- - AJAX -->
 - Ruby
   - Sinatra
   - Rails
