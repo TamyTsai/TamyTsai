@@ -8,7 +8,7 @@
   <!-- - RWD -->
   - Bootstrap
   - Bluma
-  - Tailwind
+  - Tailwind CSS
 - JavaScript
   <!-- - ES6 -->
   - jQuery
