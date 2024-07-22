@@ -7,7 +7,7 @@
   <!-- - Flexbox -->
   <!-- - RWD -->
   - Bootstrap
-  - Bluma
+  - Bulma
   - Tailwind CSS
 - JavaScript
   <!-- - ES6 -->
