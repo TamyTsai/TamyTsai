@@ -1,8 +1,8 @@
 ### Hi My name is Tamy.
 
 ## 📝 I'm currently learning ...
-- HTML
-- CSS
+- HTML5
+- CSS3
   <!-- - SCSS -->
   <!-- - Flexbox -->
   <!-- - RWD -->
