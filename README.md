@@ -23,6 +23,7 @@
   - Rails
 - Python
   - Pygame
+  - selenium
 - Swift
 - RDBMS
   - MySQL
