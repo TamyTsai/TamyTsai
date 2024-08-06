@@ -24,6 +24,7 @@
 - Python
   - Pygame
   - selenium
+  - openpyxl
 - Swift
 - RDBMS
   - MySQL
