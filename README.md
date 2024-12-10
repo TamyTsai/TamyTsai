@@ -15,6 +15,7 @@
   - Chart.js
   - Vue.js
   - Vuex
+  - ReactJS
   - Stimulus.js
   <!-- - UJS -->
   <!-- - AJAX -->
