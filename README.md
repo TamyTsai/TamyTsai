@@ -16,6 +16,7 @@
   - Vue.js
   - Vuex
   - ReactJS
+  - Next.js
   - Stimulus.js
   <!-- - UJS -->
   <!-- - AJAX -->
