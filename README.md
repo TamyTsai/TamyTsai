@@ -28,6 +28,7 @@
   - selenium
   - openpyxl
 - Swift
+- C#
 - RDBMS
   - MySQL
   - Oracle SQL
