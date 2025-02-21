@@ -29,6 +29,7 @@
   - openpyxl
 - Swift
 - C#
+  - ASP.NET Core MVC
 - RDBMS
   - MySQL
   - Oracle SQL
