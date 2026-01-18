@@ -18,6 +18,7 @@
   - ReactJS
   - Next.js
   - Stimulus.js
+  - ExtJS
   <!-- - UJS -->
   <!-- - AJAX -->
 - Ruby
@@ -30,6 +31,7 @@
 - Swift
 - C#
   - ASP.NET Core MVC
+  - .NET Framework
 - RDBMS
   - MySQL
   - Oracle SQL
